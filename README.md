@@ -1,1 +1,127 @@
-# CENTIPEDE
+
+# 🐛 Centipede Game Clone (Visual Studio + SFML)
+
+Welcome to the **Centipede Game Clone**, a procedural-style remake of the retro arcade classic. This game was developed using **C++** and the **SFML** multimedia library as part of a semester project, built inside a **Visual Studio** solution named `CENTIPEDE`.
+
+---
+
+## 🎮 Features
+
+🕹️ **Classic Gameplay Mechanics**  
+Shoot incoming centipede segments before they reach your player at the bottom of the screen.
+
+💥 **Bullet + Collision Detection**  
+Handles interactions between bullets, mushrooms, and segmented enemies.
+
+🍄 **Destructible Mushrooms**  
+Randomly spawned obstacles that can be destroyed with bullets and affect centipede movement.
+
+🏆 **Score System**  
+Earn points by shooting centipede segments and clearing mushrooms.
+
+🎵 **Sound and Music**  
+Includes firing sound effects and background music using SFML Audio module.
+
+🧠 **No Classes Used**  
+Built using **pure procedural programming** — no OOP concepts applied.
+
+🖱️ **Menu System**  
+Main menu and guide screen with mouse click functionality.
+
+---
+
+## 🛠️ Installation
+
+📥 Clone the repository:
+```bash
+git clone https://github.com/yourusername/CENTIPEDE.git
+```
+
+📂 Navigate to the project folder and open the `CENTIPEDE.sln` file using **Visual Studio**.
+
+🗂️ Make sure all assets are present in the `Textures/` folder:
+```
+Textures/
+├── bg1.png
+├── bg2.png
+├── logo1.png
+├── play.png
+├── guide.png
+├── instructions.png
+├── player2.png
+├── bullet1.png
+├── mush.png
+├── head.png
+├── body.png
+├── win.png
+├── over.png
+├── main.png
+├── quit.png
+├── quit1.png
+├── calm.ogg
+├── fire1.wav
+├── Congenial_Black.otf
+```
+
+▶️ **Build & Run** the game via Visual Studio.
+
+---
+
+## 🎮 How to Play
+
+🎯 **Objective:**  
+Destroy all centipede segments while avoiding collisions with them or the mushrooms.
+
+🧠 **Controls:**
+
+| Key         | Action                 |
+|-------------|------------------------|
+| `W` `A` `S` `D` | Move player (Up, Left, Down, Right) |
+| `Spacebar`  | Fire bullet            |
+| `Mouse`     | Menu navigation        |
+
+🎮 **Gameplay Tips:**
+- Each mushroom takes 2 hits to destroy.
+- Avoid getting trapped by mushrooms.
+- The centipede splits when hit in the middle.
+- Survive long enough and clear the entire centipede to win.
+
+---
+
+## ⚙️ Development Details
+
+🔧 **Language:** C++  
+🖼️ **Graphics:** SFML  
+🔊 **Sound & Music:** SFML Audio  
+📄 **Programming Style:** Procedural only — no classes or OOP used  
+💻 **Platform:** Windows (Visual Studio)
+
+---
+
+## 👨‍💻 Developer
+
+🧑‍💻 **Created by:** Komail Raza  
+🎓 Semester Project  
+📫 Email: komailraza448@gmail.com  
+🐙 GitHub: [komail0](https://github.com/komail0)
+
+---
+
+## 📸 Screenshots / Gameplay
+<img width="483" height="506" alt="image" src="https://github.com/user-attachments/assets/8d433d41-7842-4c78-93b3-b5607b789427" />
+<img width="482" height="503" alt="image" src="https://github.com/user-attachments/assets/2df8e1c4-3b9c-48c1-ac65-4290b3d0ef3e" />
+<img width="480" height="500" alt="image" src="https://github.com/user-attachments/assets/54aaf525-e37d-4619-8eba-38adf1e4329b" />
+<img width="482" height="503" alt="image" src="https://github.com/user-attachments/assets/5e3730cb-5ed9-4456-ab41-f0d6bb216581" />
+
+
+
+
+---
+
+## 📋 License
+
+This project is released for educational purposes. All assets used are custom or free for non-commercial use. Attribution appreciated.
+
+---
+
+Enjoy blasting centipedes and reliving arcade nostalgia! 🚀
