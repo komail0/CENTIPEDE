@@ -115,13 +115,4 @@ Destroy all centipede segments while avoiding collisions with them or the mushro
 
 
 
-
----
-
-## 📋 License
-
-This project is released for educational purposes. All assets used are custom or free for non-commercial use. Attribution appreciated.
-
----
-
 Enjoy blasting centipedes and reliving arcade nostalgia! 🚀
