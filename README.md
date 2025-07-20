@@ -37,35 +37,7 @@ Main menu and guide screen with mouse click functionality.
 git clone https://github.com/yourusername/CENTIPEDE.git
 ```
 
-📂 Navigate to the project folder and open the `CENTIPEDE.sln` file using **Visual Studio**.
 
-🗂️ Make sure all assets are present in the `Textures/` folder:
-```
-Textures/
-├── bg1.png
-├── bg2.png
-├── logo1.png
-├── play.png
-├── guide.png
-├── instructions.png
-├── player2.png
-├── bullet1.png
-├── mush.png
-├── head.png
-├── body.png
-├── win.png
-├── over.png
-├── main.png
-├── quit.png
-├── quit1.png
-├── calm.ogg
-├── fire1.wav
-├── Congenial_Black.otf
-```
-
-▶️ **Build & Run** the game via Visual Studio.
-
----
 
 ## 🎮 How to Play
 
@@ -101,7 +73,6 @@ Destroy all centipede segments while avoiding collisions with them or the mushro
 ## 👨‍💻 Developer
 
 🧑‍💻 **Created by:** Komail Raza  
-🎓 Semester Project  
 📫 Email: komailraza448@gmail.com  
 🐙 GitHub: [komail0](https://github.com/komail0)
 
